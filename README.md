@@ -1,6 +1,9 @@
-# QA402
-The latest release is '0.999'
-This repo is binary releases of the QA40x software application for the QA402 hardware. On the right side of the page, click on "releases" to see the latest release info. Or, you can click [here](https://github.com/QuantAsylum/QA402/releases)    
+# QA40x
+The QA40x application is the software that runs the QA402 and QA403 hardware (also known as the QA40x hardware). It is free to download and use, but it only works the QA402 and QA403 hardware.
 
-The [Wiki](https://github.com/QuantAsylum/QA402/wiki) contains a Getting Started guide, as well as an intro to controlling the QA402 hardware programmatically.   
+The different releases of the software are accessed via the "releases" tile on the right side of this page. 
+
+Github uses the "latest" tag and "Pre-release" tags to differentiate between the more stable "production" releases, and the less stable "new feature" releases. You can also click  [here](https://github.com/QuantAsylum/QA402/releases) to jump to the releases page. 
+
+The [Wiki](https://github.com/QuantAsylum/QA40x/wiki) contains a Getting Started guide for the QA402 and QA403 hardware, as well as an intro to controlling the QA40x hardware programmatically.   
 
